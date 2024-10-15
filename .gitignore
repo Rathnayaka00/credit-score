@@ -90,9 +90,3 @@ Thumbs.db
 *.ipynb
 *.nbconvert/
 
-# Ignore task files
-app.py
-*.ipynb
-
-data/
-model/model.pkl

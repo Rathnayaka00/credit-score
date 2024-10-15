@@ -11,8 +11,6 @@ ENV/
 .ENV/
 *.env
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
 
 # PyCharm
 .idea/
@@ -85,8 +83,5 @@ datasets/
 Thumbs.db
 .DS_Store
 
-# Anaconda
-*.conda
-*.ipynb
-*.nbconvert/
+
 
